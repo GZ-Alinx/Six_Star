@@ -16,4 +16,4 @@ print(tool1, tool2, tool3)
 
 print("%s 个工具" % Tool.count)  # 类属性就使用类. 调用
 print("%s 个工具" % tool1.count)  # 实例属性使用实例. 调用
-# 区分调用方式  否则调用的数据不准确
+#  区分调用方式  否则调用的数据不准确
